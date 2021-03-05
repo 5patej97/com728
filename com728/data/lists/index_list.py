@@ -14,7 +14,7 @@ def run():
 run()
 
 
-# with index-based foor loop
+# with index-based for loop
 
 def movements():
   path = ["Move Forward", 10, "Move Backward", 5, "Move Left", 3, "Move Right", 1]
